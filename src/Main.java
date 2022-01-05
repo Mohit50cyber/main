@@ -1,7 +1,7 @@
 public class Main {
 
     public static void main(String[] args) {
-
+        System.out.println("ytrfgtert");
         int myarr[]={2,5,7,81};
         int sum = getSum(myarr);
         System.out.println("sum = " + sum);
