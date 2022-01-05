@@ -6,6 +6,7 @@ public class Main {
         int sum = getSum(myarr);
         System.out.println("sum = " + sum);
         System.out.println("qwerty");
+        System.out.println("mohit");
     }
 
     public static int getSum(int arr[]){
